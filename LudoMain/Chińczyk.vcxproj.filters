@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Tile.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ludo.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Board.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pawn.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Team.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="TossButton.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Dial.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="InitialMenu.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ai.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuConfirmButton.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorSelectButton.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="LeaderBoard.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Tile.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Board.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Pawn.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Team.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="TossButton.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dial.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="InitialMenu.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ai.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuConfirmButton.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="ColorSelectButton.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="LeaderBoard.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\tile.xcf">
+      <Filter>Resource files</Filter>
+    </None>
+    <None Include=".gitignore">
+      <Filter>Source files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\Barrow.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\Garrow.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\Rarrow.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tile.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tileBlue.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tileGreen.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tileRed.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tileYellow.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\Yarrow.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\Bpawn.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\Gpawn.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\Rpawn.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\Ypawn.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\button1.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\logo.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\0dice.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\1dice.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\2dice.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\3dice.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\4dice.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\5dice.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\6dice.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\BpawnAI.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\GpawnAI.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\rematch.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\RpawnAI.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tileBlueG.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tileGreenG.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tileRedG.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\tileYellowG.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\unwarp.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\warp.png">
+      <Filter>Resource files</Filter>
+    </Image>
+    <Image Include="images\YpawnAI.png">
+      <Filter>Resource files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="fonts\YoungSerif-Regular.ttf">
+      <Filter>Resource files</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
